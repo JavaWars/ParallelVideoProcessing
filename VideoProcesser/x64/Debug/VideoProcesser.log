@@ -1,0 +1,7 @@
+﻿  Main.cpp
+c:\standart\documents\projects\c++\videoprocesser\videoprocesser\videoprocesser\main.cpp(69): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\standart\documents\projects\c++\videoprocesser\videoprocesser\videoprocesser\main.cpp(141): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\standart\documents\projects\c++\videoprocesser\videoprocesser\videoprocesser\main.cpp(223): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\standart\documents\projects\c++\videoprocesser\videoprocesser\videoprocesser\main.cpp(277): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  VideoProcesser.vcxproj -> C:\Standart\Documents\Projects\C++\VideoProcesser\VideoProcesser\x64\Debug\VideoProcesser.exe
+  VideoProcesser.vcxproj -> C:\Standart\Documents\Projects\C++\VideoProcesser\VideoProcesser\x64\Debug\VideoProcesser.pdb (Partial PDB)
